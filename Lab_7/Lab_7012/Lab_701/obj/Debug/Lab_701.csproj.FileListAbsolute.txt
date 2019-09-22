@@ -1,0 +1,194 @@
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\obj\Debug\Lab_701.csprojAssemblyReference.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\obj\Debug\Lab_701.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Lab_701.dll.config
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Lab_701.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Lab_701.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\csc.exe
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\csc.exe.config
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\csc.rsp
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\csi.exe
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\csi.exe.config
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\csi.rsp
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.AppContext.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Collections.Immutable.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Console.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.IO.Compression.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.IO.FileSystem.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.IO.Pipes.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Reflection.Metadata.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Security.AccessControl.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Security.Claims.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.ValueTuple.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Xml.XPath.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\vbc.exe
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\vbc.exe.config
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\vbc.rsp
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\VBCSCompiler.exe
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\roslyn\VBCSCompiler.exe.config
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Antlr3.Runtime.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\EntityFramework.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\EntityFramework.SqlServer.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Microsoft.Web.Infrastructure.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Newtonsoft.Json.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Helpers.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Mvc.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Optimization.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Razor.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.WebPages.Deployment.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.WebPages.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.WebPages.Razor.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\WebGrease.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\EntityFramework.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\EntityFramework.SqlServer.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Helpers.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Mvc.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Optimization.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Razor.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.WebPages.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.WebPages.Deployment.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.WebPages.Razor.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Newtonsoft.Json.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Antlr3.Runtime.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\ru\System.Web.Helpers.resources.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\ru\System.Web.Mvc.resources.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\ru\System.Web.Optimization.resources.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\ru\System.Web.Razor.resources.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\ru\System.Web.WebPages.resources.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\obj\Debug\Lab_701.csproj.CopyComplete
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\obj\Debug\Lab_701.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\obj\Debug\Lab_701.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Net.Http.Formatting.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Http.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Http.WebHost.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Net.Http.Formatting.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Http.xml
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab_701\Lab_701\bin\System.Web.Http.WebHost.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Lab_701.dll.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Lab_701.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Lab_701.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\csc.exe
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\csc.exe.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\csc.rsp
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\csi.exe
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\csi.exe.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\csi.rsp
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.AppContext.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Collections.Immutable.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Console.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.IO.Compression.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.IO.FileSystem.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.IO.Pipes.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Reflection.Metadata.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Security.AccessControl.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Security.Claims.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.ValueTuple.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Xml.XPath.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\vbc.exe
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\vbc.exe.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\vbc.rsp
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\VBCSCompiler.exe
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\roslyn\VBCSCompiler.exe.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Antlr3.Runtime.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\EntityFramework.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\EntityFramework.SqlServer.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Microsoft.Web.Infrastructure.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Newtonsoft.Json.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Net.Http.Formatting.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Helpers.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Http.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Http.WebHost.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Mvc.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Optimization.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Razor.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.WebPages.Deployment.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.WebPages.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.WebPages.Razor.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\WebGrease.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\EntityFramework.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\EntityFramework.SqlServer.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Net.Http.Formatting.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Http.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Http.WebHost.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Helpers.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Mvc.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Optimization.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.Razor.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.WebPages.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.WebPages.Deployment.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Web.WebPages.Razor.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Newtonsoft.Json.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Antlr3.Runtime.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\ru\System.Web.Helpers.resources.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\ru\System.Web.Mvc.resources.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\ru\System.Web.Optimization.resources.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\ru\System.Web.Razor.resources.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\ru\System.Web.WebPages.resources.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\obj\Debug\Lab_701.csprojAssemblyReference.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\obj\Debug\Lab_701.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\obj\Debug\Lab_701.csproj.CopyComplete
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\obj\Debug\Lab_701.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_7\Lab_7012\Lab_701\obj\Debug\Lab_701.pdb

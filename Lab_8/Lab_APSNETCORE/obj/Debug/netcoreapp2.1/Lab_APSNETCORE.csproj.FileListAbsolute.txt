@@ -1,0 +1,92 @@
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.AssemblyInfo.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.deps.json
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.runtimeconfig.json
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.runtimeconfig.dev.json
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.dll
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.pdb
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.dll
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.pdb
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.TagHelpers.input.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.TagHelpers.output.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorCoreGenerate.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\DiShower\Index.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.pdb
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.dll
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.pdb
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.csproj.CopyComplete
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.deps.json
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.runtimeconfig.json
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.runtimeconfig.dev.json
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.dll
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.pdb
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.dll
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.pdb
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.AssemblyInfo.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.TagHelpers.input.cache
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.TagHelpers.output.cache
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorCoreGenerate.cache
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\DiShower\Index.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.pdb
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.dll
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.pdb
+C:\Users\User\Desktop\PIS\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.csproj.CopyComplete
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.deps.json
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.runtimeconfig.json
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.runtimeconfig.dev.json
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.csprojAssemblyReference.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorAssemblyInfo.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorAssemblyInfo.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.AssemblyInfoInputs.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.AssemblyInfo.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.TagHelpers.input.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.TagHelpers.output.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorCoreGenerate.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\DiShower\Index.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Users\Create.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\Users\Index.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorTargetAssemblyInfo.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.RazorTargetAssemblyInfo.cs
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.Views.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.1\Lab_APSNETCORE.csproj.CopyComplete

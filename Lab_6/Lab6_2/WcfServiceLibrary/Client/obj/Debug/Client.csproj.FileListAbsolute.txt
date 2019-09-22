@@ -1,0 +1,24 @@
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\bin\Debug\Client.exe.config
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\bin\Debug\Client.exe
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\bin\Debug\Client.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\obj\Debug\Client.Form1.resources
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\obj\Debug\Client.exe
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\obj\Debug\Client.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\bin\Debug\Client.exe.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\bin\Debug\Client.exe
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\bin\Debug\Client.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\obj\Debug\Client.csprojAssemblyReference.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\obj\Debug\Client.Form1.resources
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\obj\Debug\Client.Properties.Resources.resources
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\obj\Debug\Client.exe
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\obj\Debug\Client.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\bin\Debug\WcfServiceLibrary1.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\bin\Debug\WcfServiceLibrary1.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\Client\obj\Debug\Client.csproj.CopyComplete

@@ -1,0 +1,7 @@
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojAssemblyReference.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

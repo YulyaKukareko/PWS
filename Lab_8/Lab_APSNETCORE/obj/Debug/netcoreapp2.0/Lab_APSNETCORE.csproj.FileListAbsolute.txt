@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.0\Lab_APSNETCORE.deps.json
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.0\Lab_APSNETCORE.runtimeconfig.json
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.0\Lab_APSNETCORE.runtimeconfig.dev.json
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.0\Lab_APSNETCORE.dll
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\bin\Debug\netcoreapp2.0\Lab_APSNETCORE.pdb
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.0\Lab_APSNETCORE.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.0\Lab_APSNETCORE.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.0\Lab_APSNETCORE.AssemblyInfo.cs
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.0\Lab_APSNETCORE.dll
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.0\Lab_APSNETCORE.pdb
+C:\Users\User\Desktop\PIS\sem\ЛР\LAB8\Lab_APSNETCORE\obj\Debug\netcoreapp2.0\Lab_APSNETCORE.csprojAssemblyReference.cache

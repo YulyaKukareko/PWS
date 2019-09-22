@@ -1,0 +1,28 @@
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WcfServiceLibrary.dll
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WcfServiceLibrary.pdb
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WcfServiceLibrary.dll.config
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Univer\3 курс\2 семестр\Программирование интернет-серверов\Lab6(2)\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WcfServiceLibrary.dll
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WcfServiceLibrary.pdb
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\bin\Debug\WcfServiceLibrary.dll.config
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.Form1.resources
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CopyComplete
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\Univer\3 курс\2 семестр\экзамен\Lab_6\Lab6_2\WcfServiceLibrary\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
